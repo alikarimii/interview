@@ -14,7 +14,7 @@ Ensure your pull request adheres to the following guidelines:
 ### Format
 
 - Create a folder for the company you write from(if there is no folder).
-- If you create a folder for the company, you must add an `info.md` file containing the `title with this format: CompanyName Interview Question`, `website address: [link]`, `description: ...`.`
+- If you create a folder for the company, you must add an `README.md` file containing the `title with this format: CompanyName Interview Question`, `website address: [link]`, `description: ...`.`
 - Create a folder for each interview with this format `category.programmingLanguage.yourName`.
 - Create `questions.md` to describe the interview.
 - You can create files for your answer in the relevant language(`answer.go,answer_test.go,answer.js,...`) or just an md file.
