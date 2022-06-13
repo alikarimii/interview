@@ -2,7 +2,7 @@ answers:
 
 
 
-## Refrences:
+## References:
 
 1. q
 2. https://www.tugberkugurlu.com/archive/usage-of-the-heap-data-structure-in-go-golang-with-example
