@@ -1,11 +1,11 @@
 ## Interview stages:
 
 - [x] 1-hour session technical talk
-- [] 1-hour session live coding
+- [x] 1-hour session live coding
 - [] CTO meeting
 - [] HR meeting
 
-## Questions:
+## 1-hour session technical talk:
 ---
 ### Database:
 1. What is your criteria for selection db in project?
@@ -55,3 +55,7 @@
 1. Do you know solid?explain one of them.
 1. Which design pattern did you work with?explain it.
 1. In HTTP verb, What is “PUT” for?what is “OPTION” for?
+
+## 1-hour session live coding
+---
+Refactor this code .[link](github.com/snappmarket/Challenge-Go-1)
