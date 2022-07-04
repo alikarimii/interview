@@ -2,8 +2,8 @@
 
 - [x] 1-hour session technical talk
 - [x] 1-hour session live coding
-- [] CTO meeting
-- [] HR meeting
+- [ ] CTO meeting
+- [ ] HR meeting
 
 ## 1-hour session technical talk:
 ---
@@ -58,4 +58,4 @@
 
 ## 1-hour session live coding
 ---
-Refactor this code .[link](github.com/snappmarket/Challenge-Go-1)
+Refactor this code .[link](https://github.com/snappmarket/Challenge-Go-1)
