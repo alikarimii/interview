@@ -72,3 +72,4 @@
 3. ACID and CAP
 4. Database normalization
 5. System profiler
+6. distributed tracing (Jaeger,Zipkin)
