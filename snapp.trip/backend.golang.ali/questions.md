@@ -3,8 +3,8 @@
 - [x] 1-hour sessions technical talk
 - [x] 1-hour sessions live coding
 - [ ] HR
-
-## Q&A
+## Day 1
+### Q&A
 1. backend language feature
 2. What message queue did you work with?
 3. How do you manage container state?
@@ -21,9 +21,11 @@
 
 And after that,he asked me a question about singly linked list that I had to code in leetcode website,but I could not:(
 
+## Day 2
 Second day was live coding interview.I coded in vscode,shared screen.
-They gave me one question.
+### Question
 Q: We have a list of strings as links.each link can be several.Sort them by number of repetitions desc or asc
 
+---
 ### Tips for study
 1. idempotency
